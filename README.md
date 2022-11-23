@@ -11,7 +11,7 @@ I am a software developer with a business background and a barista. I have a pas
 * ✉️  You can contact me at [gumusucb21@gmail.com](mailto:gumusucb21@gmail.com)
 * 🚀  I'm currently working on [dBank](http://github.com/erhaneth/dbank)
 * 🧠  I'm learning Solidity to write smart contracts
-* ⚡  I love coffee and cant wait to run my first marathon
+* ⚡  I love coffee and can't wait to run my first marathon
 
 ### Skills
 
