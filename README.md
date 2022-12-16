@@ -39,6 +39,10 @@ I am a software developer with a business background and a barista. I have a pas
 </p>
 
 
+### Recent articles on dev.to
+ <!-- DEVTO-BLOG-LIST:START -->
+ - [Closer Look At JavaScript Prototype](https://dev.to/erhaneth/what-is-prototypes-and-how-it-works-in-javascript--32hk)
+ <!-- DEVTO-BLOG-LIST:END -->
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/erhaneth" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/huseyingumus/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/hegblock" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
