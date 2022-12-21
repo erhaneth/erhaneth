@@ -42,7 +42,7 @@ I am a software developer with a business background and a barista. I have a pas
 ### Recent articles on dev.to
  <!-- DEVTO-BLOG-LIST:START -->
  - [Closer Look At JavaScript Prototype](https://dev.to/erhaneth/what-is-prototypes-and-how-it-works-in-javascript--32hk)
- - [Understanding the Role of Arrow Functions in JavaScript]
+ - [Understanding the Role of Arrow Functions in JavaScript](https://dev.to/erhaneth/what-are-fat-arrow-functions-354p)
  <!-- DEVTO-BLOG-LIST:END -->
 ### Socials
 
