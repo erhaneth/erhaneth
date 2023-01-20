@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am a software developer with a business background and a barista. I have a passion about blockchain technology.
+I am a software engineer with a business background and a barista. I have a passion about blockchain technology.
 
 * 🌍  I'm based in San Mateo
 * 🖥️  See my portfolio at [MyPortfolio](http://huseyinerhangumus.com/)
