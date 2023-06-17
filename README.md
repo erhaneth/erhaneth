@@ -10,7 +10,6 @@ I am a software engineer with a business background and a barista. I have a pass
 * 🖥️  See my portfolio at [MyPortfolio](http://huseyinerhangumus.com/)
 * ✉️  You can contact me at [gumusucb21@gmail.com](mailto:gumusucb21@gmail.com)
 * 🚀  I'm currently working on [solving problems](https://github.com/erhaneth/solving_problems)
-* 🧠  I'm learning Solidity to write smart contracts
 * ⚡  I love coffee and can't wait to run my first marathon
 
 ### Skills
