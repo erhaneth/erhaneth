@@ -9,7 +9,7 @@ I am a software engineer with a business background and a barista. I have a pass
 * 🌍  I'm based in San Mateo
 * 🖥️  See my portfolio at [MyPortfolio](http://huseyinerhangumus.com/)
 * ✉️  You can contact me at [gumusucb21@gmail.com](mailto:gumusucb21@gmail.com)
-* 🚀  I'm currently working on [solving problems](https://github.com/CodeTheDream/minfolio)
+* 🚀  I'm currently working on [minfolio](https://github.com/CodeTheDream/minfolio)
 * ⚡  I love coffee and can't wait to run my first marathon
 
 ### Skills
