@@ -6,11 +6,10 @@ Software Engineer
 
 I am a software engineer with a business background and a barista. I have a passion about blockchain technology.
 
-* 🌍  I'm based in San Mateo
+* 🌍  I'm based in Santa Clara
 * 🖥️  See my portfolio at [MyPortfolio](http://huseyinerhangumus.com/)
 * ✉️  You can contact me at [gumusucb21@gmail.com](mailto:gumusucb21@gmail.com)
 * 🚀  I'm currently working on [minfolio](https://github.com/CodeTheDream/minfolio)
-* ⚡  I love coffee and can't wait to run my first marathon
 
 ### Skills
 
